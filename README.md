@@ -64,17 +64,6 @@ mvn javafx:run
 - Import sebagai Maven project
 - Run Main.java
 
-## Cara Menggunakan Template
-
-1. **Copy folder ini** untuk proyek baru
-2. **Edit pom.xml**:
-   - Ubah `groupId`, `artifactId`, `name`, dan `description`
-3. **Edit Main.java**:
-   - Ubah title aplikasi
-   - Ubah author name
-4. **Customize FXML** menggunakan SceneBuilder
-5. **Modify Model** sesuai kebutuhan data
-6. **Update Controller** untuk logika bisnis
 
 ## Build Commands
 
