@@ -1,7 +1,3 @@
-# JavaFX MVC Template
-
-Template proyek JavaFX dengan pola Model-View-Controller (MVC) yang siap digunakan.
-
 ## Konfigurasi
 
 - **Java**: 25
@@ -12,7 +8,7 @@ Template proyek JavaFX dengan pola Model-View-Controller (MVC) yang siap digunak
 ## Struktur Proyek
 
 ```
-JavaFX-Template/
+JavaFX/
 ├── src/
 │   └── main/
 │       ├── java/
@@ -30,8 +26,6 @@ JavaFX-Template/
 ├── run-maven.bat
 └── README.md
 ```
-
-## Fitur Template
 
 ### Model
 - JavaFX Property binding
